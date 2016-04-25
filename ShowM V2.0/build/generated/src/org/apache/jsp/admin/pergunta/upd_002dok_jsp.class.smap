@@ -1,0 +1,20 @@
+SMAP
+upd_002dok_jsp.java
+JSP
+*S JSP
+*F
++ 0 upd-ok.jsp
+admin/pergunta/upd-ok.jsp
++ 1 cabecalho.jsp
+admin/pergunta/../cabecalho.jsp
++ 2 rodape.jsp
+admin/pergunta/../rodape.jsp
+*L
+1,4:53
+1#1,60:56
+4#0:115
+6,29:117
+34,16:146
+1#2,26:161
+49#0:186
+*E

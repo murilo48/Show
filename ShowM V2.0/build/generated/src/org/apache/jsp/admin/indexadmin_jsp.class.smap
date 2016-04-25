@@ -1,0 +1,18 @@
+SMAP
+indexadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 cabecalho-index.jsp
+admin/cabecalho-index.jsp
++ 1 indexadmin.jsp
+admin/indexadmin.jsp
++ 2 rodape-index.jsp
+admin/rodape-index.jsp
+*L
+1,6:50
+6,59:56
+1#1,22:115
+1#2,26:136
+22#1:161
+*E
